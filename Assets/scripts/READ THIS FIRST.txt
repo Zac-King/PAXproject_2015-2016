@@ -1,0 +1,33 @@
+////* Coding Standards *////
+
+script documentation:
+	Before you commit your sripts to be tested, you must submit documentation 
+	on how to use it and what's required to set it up for testing. This can
+	be done via a readme .txt file, or a commented header at the top of your 
+	script.
+
+Commenting:
+	once a function or some block of your code works and you know what it does,
+	comment it.
+
+
+script names:
+	name your scripts in this format:	subject_description_initials
+								 e.g.	Player_Stats_sll
+										Player_behavior_sll
+
+variable names:
+	variables should follow the 
+	AIE coding standard.
+								i.e.	TYPE	PREFIX		EXAMPLE
+										int		  i		    iBullets
+										bool	  b			bIsAlive
+										float	  f			 fTimer
+	These are just some examples. If you need a new variable and aren't sure how it should 
+	be named, refer to the pdf before just giving it a name and rolling with it.
+
+Function names:
+	Each word should start with a capital letter. Underscores should be used sparingly, only for organizational purposes within your script
+
+
+Refer to AIE C_C++ Coding Standards.pdf for a more complete list of function and variable name conventions we'll be using.
